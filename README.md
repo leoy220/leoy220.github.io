@@ -2,8 +2,7 @@
 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="path_to_your_profile_picture.jpg" alt="Profile Picture" style="width: 150px;">
-    <p><strong>Ph.D. in Computer Science and Engineering. Natural Language Processing & Artificial Intelligence Researcher.</strong></p>
+    <p>Ph.D. in Computer Science and Technology. Computer Vision & Natural Language Processing Researcher.</p>
     <p>📍 Madison, WI, USA</p>
     <p>✉️ <a href="mailto:your_email@example.com">Email</a></p>
     <p>🐦 <a href="https://twitter.com/your_twitter_handle">Twitter</a></p>
