@@ -3,7 +3,7 @@
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px;">
     <p>Ph.D. in Computer Science and Technology. Computer Vision & Natural Language Processing Researcher.</p>
-    <p>📍 Madison, WI, USA</p>
+    <p>📍 Xiamen, China </p>
     <p>✉️ <a href="mailto:leoy220@gmailcom">Email</a></p>
     <p>📚 <a href="https://scholar.google.com/citations?user=your_google_scholar_id">Google Scholar</a></p>
   </div>
