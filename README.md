@@ -4,10 +4,7 @@
   <div style="flex: 1; margin-right: 20px;">
     <p>Ph.D. in Computer Science and Technology. Computer Vision & Natural Language Processing Researcher.</p>
     <p>📍 Madison, WI, USA</p>
-    <p>✉️ <a href="mailto:your_email@example.com">Email</a></p>
-    <p>🐦 <a href="https://twitter.com/your_twitter_handle">Twitter</a></p>
-    <p>👔 <a href="https://linkedin.com/in/your_linkedin_handle">LinkedIn</a></p>
-    <p>🐙 <a href="https://github.com/your_github_handle">Github</a></p>
+    <p>✉️ <a href="mailto:leoy220@gmailcom">Email</a></p>
     <p>📚 <a href="https://scholar.google.com/citations?user=your_google_scholar_id">Google Scholar</a></p>
   </div>
   <div style="flex: 3;">
