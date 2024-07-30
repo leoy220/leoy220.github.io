@@ -1,3 +1,16 @@
+# Yanjun Gao
+
+![Profile Picture](path_to_your_profile_picture.jpg)
+
+**Ph.D. in Computer Science and Engineering. Natural Language Processing & Artificial Intelligence Researcher.**
+
+📍 Madison, WI, USA  
+✉️ [Email](mailto:your_email@example.com)  
+🐦 [Twitter](https://twitter.com/your_twitter_handle)  
+👔 [LinkedIn](https://linkedin.com/in/your_linkedin_handle)  
+🐙 [Github](https://github.com/your_github_handle)  
+📚 [Google Scholar](https://scholar.google.com/citations?user=your_google_scholar_id)  
+
 ## About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+am+Currently+a+Ph.D+Student+in+Xiamen+University;+I+Received+My+M.S.+Degree+in+Telecom+from+UNSW;+My+Research+Interests+Include:;+Natural+Language+Processing,+Computer+Vision,+etc.)](https://git.io/typing-svg)
 
