@@ -1,9 +1,3 @@
-# Yanjun Gao
-
-![Profile Picture](path_to_your_profile_picture.jpg)
-
-**Ph.D. in Computer Science and Engineering. Natural Language Processing & Artificial Intelligence Researcher.**
-
 📍 Madison, WI, USA  
 ✉️ [Email](mailto:your_email@example.com)  
 🐦 [Twitter](https://twitter.com/your_twitter_handle)  
