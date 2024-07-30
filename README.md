@@ -8,65 +8,9 @@
   </div>
   <div style="flex: 3;">
     <h2>About Me</h2>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=600&lines=I+am+Currently+a+Ph.D+Student+in+Xiamen+University;+I+Received+My+M.S.+Degree+in+Telecom+from+UNSW;+My+Research+Interests+Include:;+Natural+Language+Processing,+Computer+Vision,+etc." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+am+Currently+a+Ph.D+Student+in+Xiamen+University;+I+Received+My+M.S.+Degree+in+Telecom+from+UNSW;+My+Research+Interests+Include:;+Natural+Language+Processing,+Computer+Vision,+etc." alt="Typing SVG">
   </div>
 </div>
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Typing Effect</title>
-  <style>
-    .typing-container {
-      display: flex;
-    }
-    .left-section {
-      flex: 1;
-      margin-right: 20px;
-    }
-    .right-section {
-      flex: 3;
-    }
-    .typing {
-      font-family: monospace;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: .15em solid orange;
-      animation: typing 5s steps(40, end), blink-caret .75s step-end infinite;
-    }
-
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-
-    @keyframes blink-caret {
-      from, to { border-color: transparent; }
-      50% { border-color: orange; }
-    }
-  </style>
-</head>
-<body>
-  <div class="typing-container">
-    <div class="left-section">
-      <p>Ph.D. in Computer Science and Technology. Computer Vision & Natural Language Processing Researcher.</p>
-      <p>📍 Xiamen, China </p>
-      <p>✉️ <a href="mailto:leoy220@gmail.com">Email</a></p>
-      <p>📚 <a href="https://scholar.google.com/citations?user=your_google_scholar_id">Google Scholar</a></p>
-    </div>
-    <div class="right-section">
-      <h2>About Me</h2>
-      <p class="typing">I am Currently a Ph.D Student in Xiamen University; I Received My M.S. Degree in Telecom from UNSW; My Research Interests Include: Natural Language Processing, Computer Vision, etc.</p>
-    </div>
-  </div>
-</body>
-</html>
 
 ## About Me
 
