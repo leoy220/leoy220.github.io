@@ -15,10 +15,5 @@
 ## My Location
 <div style="position: relative; width: 600px; height: 450px;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11153.316369043733!2d118.098501!3d24.439521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDI2JzIyLjMiTiAxMTjCsDA1JzU0LjYiRQ!5e0!3m2!1sen!2s!4v1597822389101!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white; opacity: 0;"></div>
+  <div style="position: absolute; bottom: 0; right: 0; background-color: white; width: 120px; height: 30px;"></div>
 </div>
-
-
-
-
-
