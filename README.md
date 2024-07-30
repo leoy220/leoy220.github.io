@@ -124,72 +124,28 @@ width="30%">
   
  ```geojson
 
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [118.084968, 24.435667],
+             [118.308968, 24.608667]
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Leaflet GeoJSON Example</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <style>
-        #map {
-            width: 600px;
-            height: 400px;
-        }
-    </style>
-</head>
-<body>
-    <div id="map"></div>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script>
-        var map = L.map('map').setView([24.441137, 118.096737], 13);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; OpenStreetMap contributors'
-        }).addTo(map);
-
-        var geojsonFeature = {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "id": 1,
-                    "properties": {
-                        "ID": 0,
-                        "name": "Xiamen University Area"
-                    },
-                    "geometry": {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [118.060000, 24.410000], // 西南角
-                                [118.060000, 24.470000], // 西北角
-                                [118.130000, 24.470000], // 东北角
-                                [118.130000, 24.410000], // 东南角
-                                [118.060000, 24.410000]  // 回到起点
-                            ]
-                        ]
-                    }
-                }
-            ]
-        };
-
-        L.geoJSON(geojsonFeature, {
-            style: function (feature) {
-                return {
-                    color: "blue",
-                    fillColor: "transparent",
-                    weight: 2,
-                    opacity: 1,
-                    fillOpacity: 0
-                };
-            }
-        }).addTo(map);
-    </script>
-</body>
-</html>
+         ]
+       ]
+     }
+   }
+ ]
+}
 
 ```
 
