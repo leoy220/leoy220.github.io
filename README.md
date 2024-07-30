@@ -21,7 +21,7 @@ document.head.appendChild(link);
 var script = document.createElement('script');
 script.src = 'https://unpkg.com/leaflet/dist/leaflet.js';
 script.onload = function() {
-  var map = L.map('map').setView([24.522, 118.196], 12);
+  var map = L.map('map').setView([24.512, 118.186], 12);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
