@@ -120,9 +120,6 @@ width="30%">
 
 
 
-<!-- Belarus - My Home-->
-  
- ```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -136,8 +133,11 @@ width="30%">
        "type": "Polygon",
        "coordinates": [
          [
-             [23.5,53.9],
-             [32.6,52.6]
+             [118.0935, 24.4336], 
+             [118.0955, 24.4336], 
+             [118.0955, 24.4356], 
+             [118.0935, 24.4356],
+             [118.0935, 24.4336]
          ]
        ]
      }
@@ -145,13 +145,7 @@ width="30%">
  ]
 }
 
-```
 
-
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
 
 
 
