@@ -116,11 +116,9 @@ width="30%">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
-
 <!-- Belarus - My Home-->
   
- 
-geojson
+ ```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -142,3 +140,5 @@ geojson
    }
  ]
 }
+
+```
