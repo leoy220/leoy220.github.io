@@ -1,5 +1,16 @@
 # Jie Yang
-
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 20px;">
+    <p>Ph.D. in Computer Science and Technology. Computer Vision & Natural Language Processing Researcher.</p>
+    <p>📍 Xiamen, China </p>
+    <p>✉️ <a href="mailto:leoy220@gmail.com">Email</a></p>
+    <p>📚 <a href="https://scholar.google.com/citations?user=your_google_scholar_id">Google Scholar</a></p>
+  </div>
+  <div style="flex: 3;">
+    <h2>About Me</h2>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=600&lines=I+am+Currently+a+Ph.D+Student+in+Xiamen+University;+I+Received+My+M.S.+Degree+in+Telecom+from+UNSW;+My+Research+Interests+Include:;+Natural+Language+Processing,+Computer+Vision,+etc." alt="Typing SVG">
+  </div>
+</div>
 
 
 
