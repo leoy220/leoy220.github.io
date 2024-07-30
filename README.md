@@ -11,7 +11,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       var elements = document.getElementsByTagName('*');
       for (var i = 0; i < elements.length; i++) {
-        if (elements[i].innerText.includes("leoyang.github.io")) {
+        if (elements[i].innerText && elements[i].innerText.includes("leoyang.github.io")) {
           elements[i].style.display = 'none';
         }
       }
