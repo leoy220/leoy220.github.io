@@ -8,7 +8,7 @@
 
 ## My Location
 
-<div id="map" style="width: 600px; height: 400px;"></div>
+<div id="map" style="width: 800px; height: 600px;"></div>
 
 <script>
 // Add Leaflet CSS
@@ -21,7 +21,7 @@ document.head.appendChild(link);
 var script = document.createElement('script');
 script.src = 'https://unpkg.com/leaflet/dist/leaflet.js';
 script.onload = function() {
-  var map = L.map('map').setView([24.522, 118.186], 20);
+  var map = L.map('map').setView([24.522, 118.186], 12);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
